@@ -1,6 +1,6 @@
 {
-  "name": "Product Sales Website",
-  "description": "A beautifully curated, high-end design-focused product sales website featuring premium lifestyle tech accessories, interactive multi-step checkout, filterable catalogs, and real-time cart persistence.",
-  "requestFramePermissions": [],
+  "name": "mygoods",
+  "description": "Pi Browser 기반 위치 인증 신뢰 중고거래 플랫폼 (당근마켓 모티브)",
+  "requestFramePermissions": ["geolocation"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
